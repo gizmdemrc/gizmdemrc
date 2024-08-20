@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Gizem</h1>
-<h3 align="center">Türkiye'den tutkulu bir ön uç geliştiricisi</h3>
+
 
 - 📫 Bana nasıl ulaşabilirsiniz **gizmdemrc@gmail.com**
 
